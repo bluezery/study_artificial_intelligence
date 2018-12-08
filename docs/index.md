@@ -2,12 +2,13 @@
 * Let's study AI !
 
 * TODO: New Reference
-https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
+[https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 
 ---
 
 # References
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2) 
 * [Quora: What are the best tutorials, videos and slides for probabilistic graphical models?](https://www.quora.com/What-are-the-best-tutorials-videos-and-slides-for-probabilistic-graphical-models)
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
@@ -83,6 +84,7 @@ https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-inte
   * [Google 머신런닝 단기 집중과정(Tensorflow)](https://developers.google.com/machine-learning/crash-course/)
 
 ## Python
+  - [Python Machine Learning Mini-Course](https://machinelearningmastery.com/python-machine-learning-mini-course/)
   - [Scipy Lecture Notes](http://www.scipy-lectures.org)
   - [Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
   - [파이썬 머신런닝 (책의 일부를 공개함)](https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
@@ -95,6 +97,7 @@ https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-inte
 
 ## R
   - [Kaggle R tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-r-tutorial-on-machine-learning)
+  - [R Machine Learning Mini-Course](https://machinelearningmastery.com/r-machine-learning-mini-course/)
 
 ## ETC
   - [Hackers Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
