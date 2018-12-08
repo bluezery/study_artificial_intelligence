@@ -14,6 +14,7 @@
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [쉽게 풀어쓴 딥러닝의 거의 모든것](http://slownews.kr/41461)
 * [Tensor Flow Korea Facebook Top Articles ](https://github.com/golbin/TensorFlow-Tutorials)
+* [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 
 ---
 
