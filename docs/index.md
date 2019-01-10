@@ -2,7 +2,8 @@
 * Let's study AI !
 
 * TODO: New Reference
-[https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+  * [https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+  * [로보틱스와 머신 러닝/인공지능 무료 교재 추천 15권](http://slownews.kr/36701 )
 
 ---
 
@@ -16,11 +17,30 @@
 * [Tensor Flow Korea Facebook Top Articles ](https://github.com/golbin/TensorFlow-Tutorials)
 * [기계 학습(Machine Learning, 머신 러닝)은 즐겁다! Part 1](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-1-9a0297198ad8)
 
+
 ---
 
 # Math
-* [Mathmatics]()
+* Linear Algebra
+  * [khanacademy Vector intro for linear algebra](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/vector-introduction-linear-algebra)
+  * [Introduction to Linear Algebra, Fifth Edition (2016)](https://math.mit.edu/~gs/linearalgebra/)
+* Matrix
+  * Coding the Matrix by Philip Klein
+    - [Lecture: Youtube](https://cs.brown.edu/video/channels/coding-matrix-fall-2014)
+    - [Lecture: Brown University](https://cs.brown.edu/video/channels/coding-matrix-fall-2014)
+    - [Lecture Slides](http://codingthematrix.com/#slides)
+    - [Book](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=59668511)
 
+* Statistics
+  * [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+  * [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+  * [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+  * [Think Stats 2e](https://greenteapress.com/wp/think-stats-2e/)
+  * [In All Likelihood: Statistical Modelling and Inference Using Likelihood](https://www.amazon.com/All-Likelihood-Statistical-Modelling-Inference/dp/0199671222)
+
+* Optimization
+  - [Convex Optimization by Boyd](http://web.stanford.edu/~boyd/cvxbook/)
+  - [Optimization by Vector Space Methods](https://www.amazon.com/Optimization-Vector-Space-Methods-Luenberger/dp/047118117X)
 ---
 
 # Famous People & Company
@@ -91,6 +111,7 @@
   - [파이썬 머신런닝 (책의 일부를 공개함)](https://tensorflow.blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
   - [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
   - [Scikit-learn tutorial: statistical-learning for sientific data processing](http://gael-varoquaux.info/scikit-learn-tutorial/)
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Keras
   - [Deep Learning with Keras - Python](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
@@ -143,7 +164,7 @@
 * [Machine Learning by GeorgiaTech](https://www.udacity.com/course/machine-learning--ud262)
 * [Dive into Deep Learning](http://en.diveintodeeplearning.org/)
 
-## Books
+### Books
 - [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 
 ## Advanced 
@@ -178,7 +199,6 @@
 * [Statistics One offered by Andrew Conwa of Princeton University](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
   * [Slides](https://github.com/boboppie/coursera-course-statistics_one) 
 
-
 ### Books
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [An Introduction to Statistical Learning (with Applications in R)](http://www-bcf.usc.edu/~gareth/ISL/)
@@ -199,5 +219,14 @@
 * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html)
 * [[CS224d: Deep Learning for Natural Language Processing by Ian Goodfellow]](http://cs224d.stanford.edu/)
 
-### Book
+### Books
 * [Deep Learning (by Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+### Papers
+- [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619)
+
+## Applications
+### Books
+* [Spoken Language Processing: A Guide to Theory, Algorithmand System Development](https://www.amazon.com/Spoken-Language-Processing-Algorithm-Development/dp/0130226165)
+* [Automatic Speech Recognition](https://www.springer.com/us/book/9781447157786)
