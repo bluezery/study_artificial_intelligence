@@ -55,6 +55,7 @@
 * [Geoffrey E. Hinton](http://www.cs.toronto.edu/~hinton/)
 * [DeepMind](https://deepmind.com/)
 * [Google AI](https://ai.google/)
+* [OpenAI](https://openai.com/)
 
 ---
 
